@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(34,58): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(34,85): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(34,130): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(42,61): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(42,90): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\common.hpp(42,138): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Mati\source\repos\CppOpenGLExample\CppOpenGLExample\main.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CppOpenGLExample.vcxproj -> C:\Users\Mati\source\repos\CppOpenGLExample\Debug\CppOpenGLExample.exe
